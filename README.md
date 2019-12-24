@@ -15,4 +15,4 @@ Running on: https://ix.cs.uoregon.edu/~ccomish/landing.php
 *Your purchase is complete, view your order number and customer number*
 ![complete_page](https://raw.githubusercontent.com/CoreyComish/Skateboard_Build-Buy/master/complete.png)
 
-**All transaction information, including the skateboard parts ordered are stored in the database!**
+**All transaction information (including the selected skateboard parts), are stored in the database!**
